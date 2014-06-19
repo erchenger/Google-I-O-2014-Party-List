@@ -23,4 +23,5 @@ This is a community created list of parties and events that are going on during 
 | Host | Description | Location | Link | Sold Out |
 |------|-------------|----------|------|---------|
 | Android BBQ Inc. | The Big Android Meat & Greet (BAMG) is officially the unofficial, after-I/O, pre-party party.  Before you head to one of the many after-I/O parties, stop by BAMG! |Wearable World 600 Harrison St San Francisco, CA 94107 | [Eventbrite](http://www.eventbrite.com/e/big-android-meat-greet-tickets-11786807659)| WAITLIST |
+| Yahoo Mobile | Keep the good times rolling after Google I/O and come hang with us Yahoos!  We are hosting a happy hour at Roe nightclub, http://www.roe-sf.com/ in SF one block away from Moscone Center.    |ROE Restaurant 651 Howard St San Francisco, CA 94105| [Eventbrite](https://www.eventbrite.com/e/yahoo-after-party-tickets-10493214487)| NO |
 
